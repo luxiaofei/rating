@@ -1,0 +1,13 @@
+{
+  "family": "gallery",
+  "name": "rating",
+  "version": "1.0.0",
+
+  "spm": {
+    "alias": {
+      "$": "$",
+      "seajs-style":"seajs-style"
+    },
+    "output": ["rating.js"]
+  }
+}

@@ -1,0 +1,5 @@
+/* star_o */
+.star_o{}
+.star_o a{width:16px;height:16px;float:left;display:block;background:url("http://img3.j0.cn/sea-modules/component/rating/src/star.gif") no-repeat 0 0;}
+.star_o a.on{background-position:0 -32px;}
+.star_o a.hover{background-position:0 -16px;}

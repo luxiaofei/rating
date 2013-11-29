@@ -1,0 +1,1 @@
+spm install . -d ../../../sea-modules
